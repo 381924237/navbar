@@ -1,0 +1,36 @@
+.ct{
+  width: 600px;
+  margin: 0 auto;
+}
+
+.close{
+  float: right;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.content{
+  margin-top: 30px;
+  padding: 1px 16px;
+  line-height: 1.5;
+  border-radius: 3px;
+  color: #fff;
+}
+.content>h3{
+  font-size: 24px;
+  margin: 10px 0;
+}
+.one{
+  background-color: #4CAF50;
+}
+.two{
+  background-color: #2196F3;
+}
+.three{
+  background-color: #f44336;
+}
+.four{
+  background-color: #ff9800;
+}
+/*注释*/
